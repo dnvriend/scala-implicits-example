@@ -190,6 +190,8 @@ when there is a sale, else they are about $50 dollars each, but IMHO well worth 
 - [(0'50 hr) Scala Tricks - Venkat Subramaniam](https://www.youtube.com/watch?v=tY11Jtj-SA8)
 - [(0'48 hr) Being lazy with Scala - Venkat Subramaniam](https://www.youtube.com/watch?v=sf4wU7M0FKA)
 - [(3'03 hr) Using Traits, Mixins and Monads in JVM Languages - Venkat Subramaniam](https://www.youtube.com/watch?v=NsZoFno8Mfk)
+- [(2'36 hr) Reactive Programming - Venkat Subramaniam](https://www.youtube.com/watch?v=weWSYIUdX6c)
+- [(2'40 hr) Core Design Principles for Software Developers - Venkat Subramaniam](https://www.youtube.com/watch?v=llGgO74uXMI)
 
 ## SlideShare
 - [Scala Implicits - Not to be feared - Derek Wyatt](http://www.slideshare.net/DerekWyatt1/scala-implicits-not-to-be-feared)
